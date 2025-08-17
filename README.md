@@ -8,13 +8,13 @@ In JavaScript, functions are blocks of reusable code. They allow you to bundle f
 
 ## 1. Basic syntax
 ```
- **const** functionName = (params) => {
+ const functionName = (params) => {
   // code to be executed
 }
 ```
 * **const**: const should be used whenever a function expression is assigned to a variable.
 * **The function name**: The name you choose for the function.
-* **Parameters**: Optional comma separated parameters. This is the data passed into the  **function**. If there are no parameters, the () is still required.
+* **Parameters**: Optional comma separated parameters. This is the data passed into the function. If there are no parameters, the () is still required.
 * **The arrow syntax**: Indicates that this will be a function.
 * **The body**: The statements that make up the function itself. Surrounded by curly braces.
 
